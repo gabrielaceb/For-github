@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6dd00ec3-5124-4f57-b026-c8fb498e2e7e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/admin_area/assets/js/add_product.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin_area/assets/js/add_product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_area/assets/php/functions_admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_area/assets/php/functions_admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_area/forgotpassword1.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_area/forgotpassword1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_area/includes/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_area/includes/db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_area/logincheck.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_area/logincheck.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions/functions.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="25y9e9cxvzJlTLwb8laQJRcJ0Tx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/admin_area/assets/php" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.24612203" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Electronix-online-shopping-site-master\admin_area\assets\php" />
+      <recent name="D:\Electronix-online-shopping-site-master\admin_area\assets\js" />
+      <recent name="D:\Electronix-online-shopping-site-master\assets\images" />
+      <recent name="D:\Electronix-online-shopping-site-master\admin_area" />
+      <recent name="D:\Electronix-online-shopping-site-master\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Electronix-online-shopping-site-master\admin_area\assets\php" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dd00ec3-5124-4f57-b026-c8fb498e2e7e" name="Changes" comment="" />
+      <created>1646488551773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646488551773</updated>
+      <workItem from="1646488553026" duration="1662000" />
+      <workItem from="1646953969339" duration="1029000" />
+      <workItem from="1647176905589" duration="3480000" />
+      <workItem from="1647712849389" duration="21465000" />
+      <workItem from="1647812547621" duration="3282000" />
+      <workItem from="1647941097007" duration="10046000" />
+      <workItem from="1647958093099" duration="4473000" />
+      <workItem from="1648021623914" duration="23220000" />
+      <workItem from="1648144114186" duration="10572000" />
+      <workItem from="1650281049393" duration="2153000" />
+      <workItem from="1651250161853" duration="1459000" />
+      <workItem from="1651391147921" duration="806000" />
+      <workItem from="1651695955691" duration="3181000" />
+      <workItem from="1651735377370" duration="3659000" />
+      <workItem from="1651788036670" duration="624000" />
+      <workItem from="1651913326837" duration="1292000" />
+      <workItem from="1652002358641" duration="477000" />
+      <workItem from="1652619707935" duration="415000" />
+      <workItem from="1653321136279" duration="2156000" />
+      <workItem from="1666800471909" duration="475000" />
+      <workItem from="1674069002999" duration="146000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
